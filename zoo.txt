@@ -1,0 +1,9 @@
+splom
+deluge
+parallel coordinates
+Reingold-Tilford algorithm
+dendrogram
+Adjacency diagrams
+Enclosure diagrams
+arc diagrams
+circle-packing layout
